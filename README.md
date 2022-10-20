@@ -4,5 +4,14 @@ My final project for application development course at Reichman University :pray
 ### Run Locally
 -----
 
-<span style="font-size:50px;">Run backend:</span>
+#### Run backend:
+  * cd to `Yogis-Outfitters`
+  * run `npm install`
+  * run `npm start`
+
+#### Run UI:
+  * cd to `Yogis-Outfitters`
+  * run `npm install`
+  * run `npm start`
+  * go to the browser to: http://localhost:3000/homePage/homePage.html
 

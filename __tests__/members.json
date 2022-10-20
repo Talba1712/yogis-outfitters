@@ -1,0 +1,56 @@
+{
+  "members": [
+    {
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "3a960464d36c1b8bad183ed57ee79c0e39953cce",
+      "shoppingBag": [],
+      "purchases": [
+        {
+          "products": [],
+          "fullName": "Test",
+          "address": "Test",
+          "country": "Test",
+          "shipMethod": "Test"
+        },
+        {
+          "products": [],
+          "fullName": "Test",
+          "address": "Test",
+          "country": "Test",
+          "shipMethod": "Test"
+        },
+        {
+          "products": [],
+          "fullName": "Test",
+          "address": "Test",
+          "country": "Test",
+          "shipMethod": "Test"
+        },
+        {
+          "products": [],
+          "fullName": "Test",
+          "address": "Test",
+          "country": "Test",
+          "shipMethod": "Test"
+        },
+        {
+          "products": [],
+          "fullName": "Test",
+          "address": "Test",
+          "country": "Test",
+          "shipMethod": "Test"
+        },
+        {
+          "products": [],
+          "fullName": "Test",
+          "address": "Test",
+          "country": "Test",
+          "shipMethod": "Test"
+        }
+      ],
+      "loginActivity": "Logged out",
+      "cookiePassword": ""
+    }
+  ]
+}
